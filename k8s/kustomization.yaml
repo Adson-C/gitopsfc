@@ -5,5 +5,5 @@ resources:
 - service.yaml
 images:
 - name: goserver
-  newName: adsonsa/gitops
-  newTag: newtag
+  newName: adsonsa/gitopsfc
+  newTag: 6b61c11e525a48ce827454c313a0c99d07026978
